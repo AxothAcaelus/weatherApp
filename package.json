@@ -1,0 +1,11 @@
+{
+	"author": "Stetson Wood",
+	"name": "weatherApp",
+	"version": "0.0.1",
+	"description": "Find weather in Utah",
+	"main": "server",
+	"dependiencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
